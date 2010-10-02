@@ -1,7 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.Ninject", "FluentValidation.Ninject\FluentValidation.Ninject.csproj", "{3D54580E-7E07-4838-ADC4-F2B312CE42AE}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D54580E-7E07-4838-ADC4-F2B312CE42AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D54580E-7E07-4838-ADC4-F2B312CE42AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D54580E-7E07-4838-ADC4-F2B312CE42AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D54580E-7E07-4838-ADC4-F2B312CE42AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
